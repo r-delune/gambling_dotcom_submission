@@ -46,6 +46,7 @@ return [
         'demo' => [
             'driver' => 'local',
             'root' => storage_path('app/demo'),
+            'visibility' => 'public',
         ],
 
         's3' => [
