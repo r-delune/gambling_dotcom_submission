@@ -1,6 +1,4 @@
-# Gambling.com Code submission
-
-This repository is part of my application submission as Software Developer in Gambling.com.
+# Project as part of application for Software Developer positon
 
 Notable files 
 - AffiliateController.php (main controller)
